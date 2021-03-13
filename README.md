@@ -1,2 +1,2 @@
 # iApp
-iHTC Developer , etc.
+Feedback problems, etc.
