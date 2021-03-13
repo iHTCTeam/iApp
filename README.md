@@ -1,2 +1,2 @@
-# iTeam
-iHTC Team , etc.
+# iApp
+iHTC Developer , etc.
